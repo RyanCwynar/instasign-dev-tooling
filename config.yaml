@@ -1,0 +1,7 @@
+THEME_NAME: storefront
+SOURCE: /public/src/
+DESTINATION: /public/wp-content/plugins/customizations/public
+CSS_OUTPUT_NAME: customizations-public
+JS_OUTPUT_NAME: customizations-public
+
+
